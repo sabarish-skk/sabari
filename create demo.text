@@ -1,0 +1,6 @@
+public class main{
+public tatic void main(string[]args)
+{
+system.out.println("hi i am sabarish")
+}
+}
